@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="thread.tests" thread-count="2" parallel="classes">
+    <test name="Thread tests">
+        <groups>
+            <run>
+                <include name="thread"/>
+            </run>
+        </groups>
+
+    </test>
+</suite>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SendDraftLetterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-02-24T15:19:00" hostname="DESKTOP-ILEOTKK" time="42.039">
+  <properties/>
+  <testcase name="gmailLoginTest[0](vfemyaktest1, test1234test1)" classname="SendDraftLetterTest" time="40.547"/>
+  <testcase name="gmailLoginTest[0](vfemyaktest, test1234test)" classname="SendDraftLetterTest" time="41.763"/>
+  <testcase name="gmailLoginTest[0](vfemyaktest2, test1234test2)" classname="SendDraftLetterTest" time="42.039"/>
+  <system-out><![CDATA[2019-02-24 17:19:01 INFO  DriverManager:24 - Driver initialize successful
+2019-02-24 17:19:01 INFO  DriverManager:24 - Driver initialize successful
+2019-02-24 17:19:01 INFO  DriverManager:24 - Driver initialize successful
+2019-02-24 17:19:27 INFO  AuthorisationBO:35 - Successful authorization
+2019-02-24 17:19:33 INFO  AuthorisationBO:35 - Successful authorization
+2019-02-24 17:19:34 INFO  AuthorisationBO:35 - Successful authorization
+2019-02-24 17:19:35 INFO  SendMessageBO:40 - Message has been written
+2019-02-24 17:19:35 INFO  SendMessageBO:33 - Message has been closed
+2019-02-24 17:19:36 INFO  SendMessageBO:45 - Draft folder has been opened
+2019-02-24 17:19:36 INFO  SendMessageBO:40 - Message has been written
+2019-02-24 17:19:36 INFO  SendMessageBO:40 - Message has been written
+2019-02-24 17:19:36 INFO  SendMessageBO:33 - Message has been closed
+2019-02-24 17:19:36 INFO  SendMessageBO:33 - Message has been closed
+2019-02-24 17:19:37 INFO  SendMessageBO:45 - Draft folder has been opened
+2019-02-24 17:19:37 INFO  SendMessageBO:45 - Draft folder has been opened
+2019-02-24 17:19:38 INFO  SendMessageBO:52 - All fields are valid
+2019-02-24 17:19:39 INFO  SendMessageBO:74 - Message has been sent
+2019-02-24 17:19:40 INFO  SendMessageBO:52 - All fields are valid
+2019-02-24 17:19:40 INFO  SendMessageBO:52 - All fields are valid
+2019-02-24 17:19:40 INFO  SendMessageBO:74 - Message has been sent
+2019-02-24 17:19:40 INFO  SendMessageBO:74 - Message has been sent
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1) on port 39793
+Starting ChromeDriver 2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1) on port 20766
+Starting ChromeDriver 2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1) on port 27389
+Only local connections are allowed.
+Only local connections are allowed.
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+лют. 24, 2019 5:19:07 ПП org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+лют. 24, 2019 5:19:07 ПП org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+лют. 24, 2019 5:19:07 ПП org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[1551021549.923][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+</testsuite>
